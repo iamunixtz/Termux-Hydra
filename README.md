@@ -61,7 +61,7 @@
 - [ ] VMware-Auth
 
 # Word From Authors 📃
-***Dont Critisez Our Copy the Codes Shows Love By Contributes & Suggest Best way To improve***
+***Dont Critisez Or Copy Our Codes Shows Love By Contributes & Suggest Best way To improve***
 
 # Installation On Termux
 ```
