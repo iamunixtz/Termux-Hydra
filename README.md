@@ -2,7 +2,7 @@
   <a href="https://github.com/iamunixtz/Termux-Hydra/issues"><img src="https://img.shields.io/github/issues/iamunixtz/Termux-Hydra.svg" alt="GitHub issues"></a>
   <a href="https://github.com/iamunixtz/Termux-Hydra/stargazers"><img src="https://img.shields.io/github/stars/iamunixtz/Termux-Hydra.svg" alt="GitHub stars"></a>
   <a href="https://github.com/iamunixtz/Termux-Hydra/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamunixtz/Termux-Hydra.svg" alt="GitHub license"></a>
-  <a href="https://t.me/your_telegram_group"><img src="https://img.shields.io/badge/Join%20Us%20On-Telegram-2599d2.svg" alt="Telegram"></a>
+  <a href="https://t.me/bongocoders"><img src="https://img.shields.io/badge/Join%20Us%20On-Telegram-2599d2.svg" alt="Telegram"></a>
   <img src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg" alt="Made with Bash">
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
 </p>
