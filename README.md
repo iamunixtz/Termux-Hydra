@@ -71,7 +71,7 @@ pkg install python
 pip install colorama
 git clone https://github.com/iamunixtz/Termux-Hydra.git
 cd Termux-Hydra
-bash setup.py
+python setup.py
 ```
 # Thanks To our Contributor 
 <table>
