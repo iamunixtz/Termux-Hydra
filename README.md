@@ -73,6 +73,13 @@ cd Termux-Hydra
 bash setup.py
 ```
 # Thanks To our Contributor 
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/iamunixtz"><img src="https://avatars.githubusercontent.com/u/152855414?v=4)" /><br /><sub><b>Iamunixtz</b></sub></a></td>
+
+  <td><a href="https://github.com/Mrpasswordtz"><img src="https://avatars.githubusercontent.com/u/104827262?v=4" /><br /><sub><b>Mrpasswordtz</b></sub></a></td>
+  </tr>
+  </table>
 
 # Disclaimer To User 
 ***Use this tool for Educational and Permission Jobs Dont Hack Someone Password without Their Permission***
