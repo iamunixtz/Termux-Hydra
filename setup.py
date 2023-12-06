@@ -38,6 +38,6 @@ time.sleep(10)
 github_link = "https://github.com/iamunixtz/Termux-Hydra/"
 subprocess.run(['termux-open-url', github_link])
 
-subprocess.run(['bash', 'Termux-Hydra.sh'])
+subprocess.run(['bash', 'TermuxHydra.sh'])
 print("Thanks MrPassword & Mrsystem For Script")
 time.sleep(10)
