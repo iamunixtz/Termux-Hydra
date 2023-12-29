@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
 </p>
 
-# Termux-Hydra
+# Termux-Hydra[MAINTANCE MODE WE UPDATE THE TOOL]
 **is a Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
 
 ![Termux-Hydra Banner](https://github.com/iamunixtz/Termux-Hydra/blob/main/banner-image.png)
