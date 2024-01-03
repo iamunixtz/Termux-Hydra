@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
 </p>
 
-# Termux-Hydra[MAINTANCE MODE WE UPDATE THE TOOL]
-**is a Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
+# Termux-Hydra
+**Is Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
 
 ![Termux-Hydra Banner](https://github.com/iamunixtz/Termux-Hydra/blob/main/banner.png)
 
@@ -20,45 +20,12 @@
 # Upcoming Features
 - [ ] HTTPS-POST-FORM Attack
 - [ ] Telnet
-- [ ] Cisco AAA
-- [ ] Cisco auth
-- [ ] Cisco enable
-- [ ] CVS
-- [ ] FTP
-- [ ] HTTP(S)-FORM-GET
-- [ ] HTTP(S)-FORM-POST
-- [ ] HTTP(S)-GET
-- [ ] HTTP(S)-HEAD
-- [ ] HTTP-Proxy
-- [ ] ICQ
-- [ ] IMAP
-- [ ] IRC
-- [ ] LDAP
-- [ ] MS-SQL
 - [ ] MySQL
-- [ ] NNTP
-- [ ] Oracle Listener
-- [ ] Oracle SID
-- [ ] PC-Anywhere
-- [ ] PC-NFS
 - [ ] POP3
-- [ ] PostgreSQL
-- [ ] RDP
-- [ ] Rexec
-- [ ] Rlogin
-- [ ] Rsh
-- [ ] SIP
 - [ ] SMB(NT)
 - [ ] SMTP
-- [ ] SMTP Enum
-- [ ] SNMP v1+v2+v3
-- [ ] SOCKS5
-- [ ] SSH (v1 and v2)
-- [ ] SSHKEY
-- [ ] Subversion
-- [ ] Teamspeak (TS2)
 - [ ] Telnet
-- [ ] VMware-Auth
+      
 
 # Word From Authors 📃
 ***Dont Critisez Or Copy Our Codes Shows Love By Contributes & Suggest Best way To improve***
