@@ -10,7 +10,7 @@
 # Termux-Hydra[MAINTANCE MODE WE UPDATE THE TOOL]
 **is a Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
 
-![Termux-Hydra Banner](https://github.com/iamunixtz/Termux-Hydra/blob/main/banner-image.png)
+![Termux-Hydra Banner](https://github.com/iamunixtz/Termux-Hydra/blob/main/banner.png)
 
 # Available Features
 - [x] SSH Brute Attack
