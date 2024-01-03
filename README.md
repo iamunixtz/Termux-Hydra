@@ -7,17 +7,17 @@
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
 </p>
 
-# Termux-Hydra
-**Is Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
+**Termux-Hydra**
+*Is Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
 
 ![Termux-Hydra Banner](https://github.com/iamunixtz/Termux-Hydra/blob/main/banner.png)
 
-# Available Features
+**Available Features**
 - [x] SSH Brute Attack
 - [x] FTP Brute Attack
 - [x] HTTP-POST-FORM Attack
 
-# Upcoming Features
+**Upcoming Features**
 - [ ] HTTPS-POST-FORM Attack
 - [ ] Telnet
 - [ ] MySQL
@@ -27,10 +27,10 @@
 - [ ] Telnet
       
 
-# Word From Authors 📃
-***Dont Critisez Or Copy Our Codes Shows Love By Contributes & Suggest Best way To improve***
+**Word From Authors 📃**
+*Dont Critisez Or Copy Our Codes Shows Love By Contributes & Suggest Best way To improve*
 
-# Installation On Termux
+**Installation On Termux**
 ```
 pkg update && pkg upgrade
 pkg install git
@@ -40,7 +40,7 @@ git clone https://github.com/iamunixtz/Termux-Hydra.git
 cd Termux-Hydra
 python setup.py
 ```
-# Thanks To our Contributor 
+**Thanks To our Contributor**
 <table>
   <tr align="center">
     <td><a href="https://github.com/iamunixtz"><img src="https://avatars.githubusercontent.com/u/152855414?v=4)" /><br /><sub><b>Iamunixtz</b></sub></a></td>
