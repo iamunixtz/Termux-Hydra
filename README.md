@@ -17,12 +17,12 @@
 - [x] FTP Brute Attack
 - [x] HTTP-POST-FORM Attack
 - [x] Telnet
+- [x] SMTP
 
 **Upcoming Features**
 - [ ] MySQL
 - [ ] POP3
-- [ ] SMB(NT)
-- [ ] SMTP
+- [ ] SMB
       
 
 **Word From Authors 📃**
