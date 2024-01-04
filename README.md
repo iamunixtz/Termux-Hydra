@@ -16,15 +16,13 @@
 - [x] SSH Brute Attack
 - [x] FTP Brute Attack
 - [x] HTTP-POST-FORM Attack
+- [x] Telnet
 
 **Upcoming Features**
-- [ ] HTTPS-POST-FORM Attack
-- [ ] Telnet
 - [ ] MySQL
 - [ ] POP3
 - [ ] SMB(NT)
 - [ ] SMTP
-- [ ] Telnet
       
 
 **Word From Authors 📃**
