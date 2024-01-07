@@ -38,6 +38,9 @@ git clone https://github.com/iamunixtz/Termux-Hydra.git
 cd Termux-Hydra
 python setup.py
 ```
+<b><h3>How To Install Termux-Hydra On Termux Watch🙄 The Video Below 👇</h3><b>
+[![How To install Termux-Hydra 2024](https://img.youtube.com/vi/-pJqXXfv6MU/0.jpg)](https://www.youtube.com/watch?v=-pJqXXfv6MU)
+
 **Thanks To our Contributor**
 <table>
   <tr align="center">
