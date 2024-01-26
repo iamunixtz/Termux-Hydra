@@ -41,6 +41,10 @@ python setup.py
 <b><h3>How To Install Termux-Hydra On Termux Watch🙄 The Video Below 👇</h3><b>
 [![How To install Termux-Hydra 2024](https://img.youtube.com/vi/-pJqXXfv6MU/0.jpg)](https://www.youtube.com/watch?v=-pJqXXfv6MU)
 
+<center>
+  <a href="https://t.me/+0pG--ix2p04xYmJk"><img src="https://img.shields.io/badge/Join%20Us%20On-Telegram-2599d2.svg" alt="Telegram"></a>
+</center>
+
 **Thanks To our Contributor**
 <table>
   <tr align="center">
